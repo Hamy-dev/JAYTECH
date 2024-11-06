@@ -11,8 +11,28 @@
     color: #ff6b35;
 }
 
-.footer {
+span {
+    color: #ff6b35;
+}
+
+.test button {
+    border: 0;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+footer {
     background-color: #000;
-    /* color: #fff; */
+    color: #ff6b35;
+}
+
+.footer .logo a {
+    color: #fdf6e4;
+}
+
+.text-body-primary {
+    color: #fdf6e4;
 }
 
